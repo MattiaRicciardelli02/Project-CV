@@ -9,7 +9,8 @@ This repository contains the materials and resources for the *Computer Vision* p
 
 ## Project Structure
 
-•⁠  ⁠⁠ slides/ ⁠: Presentation slides for the project overview and results.
+•⁠  ⁠⁠ slides/ ⁠: Presentation slides for the project overview and results.  
+
 •⁠  ⁠⁠ src/ ⁠: Source code for data preprocessing, model training, evaluation, and visualization.
 
 ## Datasets Used
