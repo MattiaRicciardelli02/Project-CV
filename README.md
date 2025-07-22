@@ -1,6 +1,6 @@
 # Computer vision project (2024/2025)
 
-## Student's matricola number
+### Student's matricola number
 •⁠  ⁠Mattia Raffaele Ricciardelli: 1983489  
 
 •⁠  ⁠Camille Justine Gomez Eugenio: 2216495
