@@ -13,6 +13,8 @@ This repository contains the materials and resources for the *Computer Vision* p
 
 •⁠  ⁠⁠ src/ ⁠: Source code for data preprocessing, model training, evaluation, and visualization.
 
+The Kaggle notebook is also available here: https://www.kaggle.com/code/mattiaricciardelli/project-cv
+
 ## Datasets Used
 
 The project uses the following publicly available image datasets:
