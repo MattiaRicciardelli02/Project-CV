@@ -1,7 +1,8 @@
 # Computer vision project (2024/2025)
 
 ## Student's matricola number
-•⁠  ⁠Mattia Raffaele Ricciardelli: 1983489
+•⁠  ⁠Mattia Raffaele Ricciardelli: 1983489  
+
 •⁠  ⁠Camille Justine Gomez Eugenio: 2216495
 
 This repository contains the materials and resources for the *Computer Vision* project (Project 9: Advanced Out-of-Distribution Detection for Multi-Class Classification)
